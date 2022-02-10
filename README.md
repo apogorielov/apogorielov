@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apogorielov
 - 👀 I’m interested in containers, serverles, AI/ML, 3D modelling and additive manufacturing. 
-- 🌱 I’m currently learning AWS certifiadcation
+- 🌱 I’m currently 6x AWS certified, and counting 
 - 📫 How to reach me - I will reach you. 
 
 <!---
